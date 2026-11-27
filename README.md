@@ -129,12 +129,10 @@ Cybersecurity is one of the areas that fascinates me because understanding how s
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sid-Dan06&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph"/>
-
+  <img src="https://github.com/Sid-Dan06/Sid-Dan06/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
 ---
